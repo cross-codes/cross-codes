@@ -9,16 +9,16 @@
   ```css
   cross-codes@GitHub
   -----------------
-  Name: Akshaj Rao
-  Architecture: x86_64
-  Languages: [ "Java", "C", "Python", "Go", "C++", "TeX",
-               "JavaScript", "Shell", "Lua", "Lisp" ]
-  Interests: [ "Algorithms", "Backend development",
-               "Kernel development", "GNU/Linux" ]
-  Tools: [ "Java Collections Framework", "Express",
-           "Django", "Gin", "FastAPI", "AWS", "Docker",
-           "PostgreSQL", "MongoDB" ]
-  Uptime: 20 Years
+Name: Akshaj Rao
+Architecture: x86_64
+  Languages:  [ "Java", "C", "Python", "Go", "C++", "TeX",
+                "JavaScript", "Shell", "Lua", "Lisp" ]
+  Interests:  [ "Algorithms", "Backend development",
+                "Kernel development", "GNU/Linux" ]
+  Tech Stack: [ "Java Collections Framework", "Express",
+                "Django", "Gin", "FastAPI", "AWS",
+                "Docker", "PostgreSQL", "MongoDB" ]
+Uptime: 20 Years
   ```
 
 </div>
