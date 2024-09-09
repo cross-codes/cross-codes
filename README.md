@@ -15,6 +15,9 @@
                "JavaScript", "Shell", "Lua", "Lisp" ]
   Interests: [ "Algorithms", "Backend development",
                "Kernel development", "GNU/Linux" ]
+  Technologies/Libraries: [ "Java Collections Framework", "Express", 
+                            "Django", "Gin", "FastAPI", "AWS", "Docker",
+                            "PostgreSQL", "MongoDB" ]
   Uptime: 20 Years
   ```
 
