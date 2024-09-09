@@ -4,7 +4,7 @@
 ```
 
 <div style="display:block;text-align:left">
-    <img align="left" src="./img/pfp.jpg" border="0" style="width:156px;">
+    <img align="left" src="https://github.com/cross-codes/cross-codes/blob/master/img/pfp.png" border="0" style="width:156px;">
   
   ```css
   cross-codes@GitHub
