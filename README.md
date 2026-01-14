@@ -11,14 +11,14 @@
   -----------------
 Name: Akshaj Rao
 Architecture: x86_64
-  Languages:  [ "Java", "C", "Python", "Go", "C++", "TeX",
+  Languages:  [ "Java", "C++", "C", "Python", "Go", "TeX",
                 "JavaScript", "Shell", "Lua", "Lisp" ]
   Interests:  [ "Algorithms", "Backend development",
                 "Kernel development", "GNU/Linux" ]
-  Tech Stack: [ "Java Collections Framework", "Express",
-                "Django", "Gin", "FastAPI", "AWS",
-                "Docker", "PostgreSQL", "MongoDB" ]
-Uptime: 20 Years
+  Tech Stack: [ "Java Collections Framework", "Maven",
+                "Express", "Django", "C++ STL", "FastAPI"
+                "AWS", "Docker", "PostgreSQL", "MongoDB" ]
+Uptime: 21 Years
   ```
 
 </div>
